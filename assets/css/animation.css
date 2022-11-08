@@ -1,0 +1,20 @@
+@keyframes header-bg {
+    from {
+        background-color: #8b9dc3;
+    }
+
+    to {
+        background-color: #dfe3ee;
+    }
+}
+
+/* @keyframes header-text {
+    from {
+        text-align: center;
+    }
+
+
+    to {
+        text-align: left;
+    }
+} */
